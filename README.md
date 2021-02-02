@@ -1,2 +1,2 @@
-# https://go.mazz.fun/twitter
-Various links, shortened by my domain name (mazz.fun) and hosted with GitHub.
+# https://go.mazz.xyz/twitter
+Various links, shortened by my domain name (https://mazz.xyz) and hosted with GitHub.
